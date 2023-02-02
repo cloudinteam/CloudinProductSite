@@ -1556,7 +1556,7 @@ div#mCSB_1_container{
 #content_block_01 .content-box .inner-box .single-item .bg-layer:before{
   position: absolute;
   content: '';
-  background: rgba(69, 39, 164, 0.8);
+  background: #9508a6;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -1871,7 +1871,7 @@ div#mCSB_1_container{
   position: absolute;
   width: 680px;
   height: 790px;
-  left: -75px;
+  left: -100px;
   top: -65px;
   background-repeat: no-repeat;
 }

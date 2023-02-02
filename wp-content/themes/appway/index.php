@@ -82,6 +82,7 @@ if ( class_exists( '\Elementor\Plugin' ) AND $data->get( 'tpl-type' ) == 'e' AND
             </div>
         </div>
     </section> 
+	
     <!--End blog area--> 
 	<?php
 }
