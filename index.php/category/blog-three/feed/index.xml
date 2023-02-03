@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Web Development &#8211; Cloudin Products</title>
-	<atom:link href="http://cloudinteam.github.io/CloudinProductSite/index.php/category/blog-three/feed/" rel="self" type="application/rss+xml" />
-	<link>http://cloudinteam.github.io/CloudinProductSite</link>
+	<atom:link href="https://cloudinteam.github.io/CloudinProductSite/index.php/category/blog-three/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cloudinteam.github.io/CloudinProductSite</link>
 	<description>A Place where Products are listed</description>
 	<lastBuildDate>Fri, 14 Jan 2022 04:20:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>http://cloudinteam.github.io/CloudinProductSite/wp-content/uploads/2023/01/favicon-01-80x80.png</url>
+	<url>https://cloudinteam.github.io/CloudinProductSite/wp-content/uploads/2023/01/favicon-01-80x80.png</url>
 	<title>Web Development &#8211; Cloudin Products</title>
-	<link>http://cloudinteam.github.io/CloudinProductSite</link>
+	<link>https://cloudinteam.github.io/CloudinProductSite</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>You have a Great Business Idea?</title>
-		<link>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/14/new-home-one/</link>
-					<comments>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/14/new-home-one/#respond</comments>
+		<link>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/14/new-home-one/</link>
+					<comments>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/14/new-home-one/#respond</comments>
 		
 		<dc:creator><![CDATA[cloudin-product]]></dc:creator>
 		<pubDate>Fri, 14 Jan 2022 04:20:36 +0000</pubDate>
@@ -53,15 +53,15 @@
 
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/14/new-home-one/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/14/new-home-one/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to Make Website WCAG Compliant?</title>
-		<link>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/how-to-make-website-wcag-compliant/</link>
-					<comments>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/how-to-make-website-wcag-compliant/#respond</comments>
+		<link>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/how-to-make-website-wcag-compliant/</link>
+					<comments>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/how-to-make-website-wcag-compliant/#respond</comments>
 		
 		<dc:creator><![CDATA[cloudin-product]]></dc:creator>
 		<pubDate>Sat, 08 Jan 2022 14:53:55 +0000</pubDate>
@@ -87,15 +87,15 @@
 
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/how-to-make-website-wcag-compliant/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/how-to-make-website-wcag-compliant/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>We Provied Greate service for our customer</title>
-		<link>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/we-provied-greate-service-for-our-customer/</link>
-					<comments>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/we-provied-greate-service-for-our-customer/#respond</comments>
+		<link>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/we-provied-greate-service-for-our-customer/</link>
+					<comments>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/we-provied-greate-service-for-our-customer/#respond</comments>
 		
 		<dc:creator><![CDATA[cloudin-product]]></dc:creator>
 		<pubDate>Sat, 08 Jan 2022 09:46:17 +0000</pubDate>
@@ -122,15 +122,15 @@
 
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/we-provied-greate-service-for-our-customer/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/we-provied-greate-service-for-our-customer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Built for drivers, with drivers on your place.</title>
-		<link>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/built-for-drivers-with-drivers-on-your-place/</link>
-					<comments>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/built-for-drivers-with-drivers-on-your-place/#respond</comments>
+		<link>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/built-for-drivers-with-drivers-on-your-place/</link>
+					<comments>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/built-for-drivers-with-drivers-on-your-place/#respond</comments>
 		
 		<dc:creator><![CDATA[cloudin-product]]></dc:creator>
 		<pubDate>Sat, 08 Jan 2022 09:45:52 +0000</pubDate>
@@ -157,7 +157,7 @@
 
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/built-for-drivers-with-drivers-on-your-place/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cloudinteam.github.io/CloudinProductSite/index.php/2022/01/08/built-for-drivers-with-drivers-on-your-place/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

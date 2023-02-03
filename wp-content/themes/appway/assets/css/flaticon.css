@@ -5,12 +5,12 @@
 
 @font-face {
   font-family: "Flaticon";
-  src: url("http://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.eot");
-  src: url("http://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.eot#iefix") format("embedded-opentype"),
-       url("http://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.woff2") format("woff2"),
-       url("http://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.woff") format("woff"),
-       url("http://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.ttf") format("truetype"),
-       url("http://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.svg#Flaticon") format("svg");
+  src: url("https://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.eot");
+  src: url("https://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.eot#iefix") format("embedded-opentype"),
+       url("https://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.woff2") format("woff2"),
+       url("https://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.woff") format("woff"),
+       url("https://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.ttf") format("truetype"),
+       url("https://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.svg#Flaticon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -18,7 +18,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "Flaticon";
-    src: url("http://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.svg#Flaticon") format("svg");
+    src: url("https://cloudinteam.github.io/CloudinProductSite/wp-content/themes/appway/assets/fonts/Flaticon.svg#Flaticon") format("svg");
   }
 }
 
