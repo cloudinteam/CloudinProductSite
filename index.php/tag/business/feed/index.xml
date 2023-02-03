@@ -10,7 +10,7 @@
 <channel>
 	<title>Business &#8211; Cloudin Products</title>
 	<atom:link href="http://https://cloudinteam.github.io/CloudinProductSite/index.php/tag/business/feed/" rel="self" type="application/rss+xml" />
-	<link>http://cloudinteam.github.io/cloudin-product</link>
+	<link>http://https://cloudinteam.github.io/CloudinProductSite</link>
 	<description>A Place where Products are listed</description>
 	<lastBuildDate>Fri, 14 Jan 2022 04:20:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>http://https://cloudinteam.github.io/CloudinProductSite/wp-content/uploads/2023/01/favicon-01-80x80.png</url>
 	<title>Business &#8211; Cloudin Products</title>
-	<link>http://cloudinteam.github.io/cloudin-product</link>
+	<link>http://https://cloudinteam.github.io/CloudinProductSite</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
