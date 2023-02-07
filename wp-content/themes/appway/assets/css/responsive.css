@@ -56,7 +56,7 @@
 @media only screen and (max-width: 1200px){
 
   .banner-section .image-box .image-2{
-    display: none;
+    display: block;
   }
 
   .feature-section .content-box{
@@ -5031,7 +5031,7 @@
   }
 
   .banner-section{
-    padding: 200px 0px;
+    padding: 100px 0px;
   }
 
 .banner-section .content-box, .feature-section .image-box .image {
