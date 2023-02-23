@@ -23177,6 +23177,7 @@ ul, li {
   line-height: 50px;
   color: #b96944;
   margin-bottom: 28px;
+	display: none;
 }
 
 .content_block_21 .content-box .text{
